@@ -82,7 +82,7 @@ export function Hero() {
           <div className="absolute inset-0 -z-10 scale-110 rounded-full bg-ember opacity-30 blur-[80px]" />
           <div className="relative aspect-[480/980] w-full overflow-hidden rounded-[2rem] border border-accent/20 bg-bg-elevated">
             <Image
-              src="/images/hero-haseeb.jpg"
+              src="/images/hero.png"
               alt={siteConfig.trainerName}
               fill
               priority
