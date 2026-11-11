@@ -9,6 +9,10 @@ import { Lightbox } from "@/components/lightbox";
 
 const transformations = [
   {
+    src: "/images/transformation-maaz-muscle-gain.jpg",
+    caption: "Maaz Tariq — 69kg → 78kg, +9kg Lean Muscle in 4 Months",
+  },
+  {
     src: "/images/transformation-recomp.jpg",
     caption: "Body Recomp — 73kg → 69kg in 3 Months",
   },
